@@ -4,7 +4,7 @@
 }
 body{
     background-color:rgb(187, 164, 32);
-    background-image: url("image1.jpg");
+    background-image: url("download.jpg");
 }
 h1{
     color: rgb(124, 13, 100);
@@ -41,4 +41,3 @@ button{
     display: inline-block;
     
 }
-
